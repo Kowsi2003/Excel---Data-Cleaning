@@ -16,15 +16,9 @@ This project demonstrates **Excel data cleaning and preprocessing** for data ana
   * Missing values (`NA` values not explicitly handled)
   * Columns with `####` due to insufficient column width
   * No date standardization
-* File path:
 
-```
-./screenshots/before_cleaning.png
-```
+* File path: - [Download Dataset (Excel)](Data%20Cleaning%20-%20Client%20dataset.xlsx)
 
-![Before Cleaning](./screenshots/before_cleaning.png)
-
----
 
 ## After Cleaning
 
@@ -41,13 +35,6 @@ This project demonstrates **Excel data cleaning and preprocessing** for data ana
 
 * File path:
 
-```
-./screenshots/after_cleaning.png
-```
-
-![After Cleaning](./screenshots/after_cleaning.png)
-
----
 
 ## Description
 
@@ -74,7 +61,7 @@ This cleaning workflow can be repeated for other raw Excel datasets to maintain 
 
 ---
 
-## Files Included
+## Screenshots Included
 
-* `./screenshots/before_cleaning.png` - Screenshot of the dataset before cleaning.
-* `./screenshots/after_cleaning.png` - Screenshot of the dataset after cleaning.
+![Before Cleaning](Before%20Cleaning.png)
+![After Cleaning](After%20Cleaning.png)
