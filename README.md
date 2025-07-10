@@ -39,6 +39,7 @@ This project demonstrates **Excel data cleaning and preprocessing** for data ana
 ## Description
 
 The cleaned dataset is now:
+
 ✅ Ready for analysis in Excel, Power BI, Tableau, or Python/Pandas workflows.
 
 ✅ Suitable for generating dashboards and client sales performance reports.
