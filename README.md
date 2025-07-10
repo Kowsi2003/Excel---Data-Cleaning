@@ -24,16 +24,16 @@ This project demonstrates **Excel data cleaning and preprocessing** for data ana
 
 * Cleaned and restructured the dataset with the following improvements:
 
-* **Checked and removed duplicate rows** to ensure unique client records.
-* **Cleaned `Client` names** by removing unwanted characters, redundant text, and standardizing to lowercase and complete names.
-* **Trimmed spaces and standardized `Contact` names** to clear, lower-case, and consistent format for clean analysis and matching.
-* **Added a `Region` column** by separating state information from the department field.
-* **Expanded all columns** to remove `####` display issues.
-* **Filled missing values with `NA`** for clarity.
-* **Added clear, complete headers:** `Date, Client, Contact, Department, Region, Payment, Revenue, Profit, Profit Margin`.
-* **Standardized date format** to `DD-MM-YYYY`.
-* **Ensured numeric columns are aligned and formatted** properly.
-* **Checked consistency of `Profit Margin` calculations** across the dataset.
+  * **Checked and removed duplicate rows** to ensure unique client records.
+  * **Cleaned `Client` names** by removing unwanted characters, redundant text, and standardizing to lowercase and complete names.
+  * **Trimmed spaces and standardized `Contact` names** to clear, lower-case, and consistent format for clean analysis and matching.
+  * **Added a `Region` column** by separating state information from the department field.
+  * **Expanded all columns** to remove `####` display issues.
+  * **Filled missing values with `NA`** for clarity.
+  * **Added clear, complete headers:** `Date, Client, Contact, Department, Region, Payment, Revenue, Profit, Profit Margin`.
+  * **Standardized date format** to `DD-MM-YYYY`.
+  * **Ensured numeric columns are aligned and formatted** properly.
+  * **Checked consistency of `Profit Margin` calculations** across the dataset.
 
 These steps enhance data integrity and consistency, making the dataset reliable, clean, and analysis-ready for Excel, Power BI, or Python workflows.
 
