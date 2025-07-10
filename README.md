@@ -33,8 +33,6 @@ This project demonstrates **Excel data cleaning and preprocessing** for data ana
   * Ensured numeric columns are properly aligned and formatted
   * Checked consistency of `Profit Margin` calculations
 
-* File path:
-
 
 ## Description
 
@@ -69,6 +67,8 @@ This cleaning workflow can be repeated for other raw Excel datasets to maintain 
 
 ![Before Cleaning](Before%20Cleaning.png)
 
+
 ---
+
 
 ![After Cleaning](After%20Cleaning.png)
