@@ -40,8 +40,11 @@ This project demonstrates **Excel data cleaning and preprocessing** for data ana
 
 The cleaned dataset is now:
 ✅ Ready for analysis in Excel, Power BI, Tableau, or Python/Pandas workflows.
+
 ✅ Suitable for generating dashboards and client sales performance reports.
+
 ✅ Easy to filter and sort for profit margin analysis, regional trends, and payment type breakdowns.
+
 ✅ Structured to allow direct pivot table creation and further data enrichment.
 
 This structured approach reduces noise and inconsistency, making your future analysis accurate and insightful.
