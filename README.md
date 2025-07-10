@@ -68,4 +68,7 @@ This cleaning workflow can be repeated for other raw Excel datasets to maintain 
 ## Screenshots Included
 
 ![Before Cleaning](Before%20Cleaning.png)
+
+---
+
 ![After Cleaning](After%20Cleaning.png)
